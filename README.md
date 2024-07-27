@@ -10,7 +10,7 @@ OptiSuit is your ultimate PC optimization suite, designed to enhance your system
 
 ## 📅 Release Date
 
-OptiSuit will officially launch on July 8, 2024. Get ready to elevate your PC experience!
+OptiSuit will officially launch on August 1, 2024. Elevate your PC experience today!
 
 ## ✨ Features
 
@@ -20,6 +20,12 @@ OptiSuit will officially launch on July 8, 2024. Get ready to elevate your PC ex
 - **System Cleaning:** Clean up clutter, logs, and caches to free up space.
 - **Advanced Tweaks:** Dive deep with expert-level optimizations for blazing-fast performance.
 - **Hosts Controller:** Control your internet hosts file.
+- **KBM (Keyboard and Mouse):** Adjust input device settings for better responsiveness.
+- **CPU:** Optimize CPU performance and settings for increased efficiency.
+- **Memory:** Improve memory usage and manage memory settings.
+- **Power:** Customize power settings to enhance system performance.
+- **GameBooster:** Apply specific tweaks to boost gaming performance.
+- **Auto DNS Picker:** Automatically select the DNS server with the lowest response time (available in the Network tab).
 
 ## 🧩 Compatibility
 
@@ -33,33 +39,21 @@ Before using the program, please consult our [Tweak Guide](tweak-guide.md) for d
 
 To purchase OptiSuit and unleash the full potential of your PC, join our community on [Discord](https://discord.gg/AVQuxh8kRD).
 
-<h2> ⬇️ Downloads</h2> 
-</center>
+## ⬇️ Downloads
 
-Find the latest release of Optimizer on the [Releases](https://github.com/0xVirtu4l/Optisuit/releases) page.
+Find the latest release of OptiSuit on the [Releases](https://github.com/0xVirtu4l/Optisuit/releases) page.
 
-<center>
-
-<h2> 📰 Changelog</h2> 
-</center>
+## 📰 Changelog
 
 Stay updated with the latest changes through the [Changelog](changelog.md).
 
-<center>
-<h2>🖼️ Screenshots</h2> 
-</center>
+## 🖼️ Screenshots
 
-View Optimizer in action through our [Screenshots](images.md) collection.
+View OptiSuit in action through our [Screenshots](images.md) collection.
 
-<center>
-
-<h2> ❓ Frequently Asked Questions</h2> 
-</center>
+## ❓ Frequently Asked Questions
 
 Find answers to common queries in the FAQ Channel on [Discord](https://discord.gg/AVQuxh8kRD).
-
-<center>
-
 
 ---
 
