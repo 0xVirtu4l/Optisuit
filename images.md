@@ -1,30 +1,42 @@
 ## Home Page
-![Home Page](https://github.com/0xVirtu4l/Optisuit/assets/76711572/feb4f81f-2b62-4b9d-aacd-8bfd1e4eb849)
+![Home Page](https://github.com/user-attachments/assets/c5159e6b-83f6-432b-95a8-6e9a23c72cc2)
 
 ## General Page
-![General Page](https://github.com/0xVirtu4l/Optisuit/assets/76711572/40444def-47e9-48d6-9a03-fa2a2f090356)
+![General Page](https://github.com/user-attachments/assets/f91f797a-8936-4b10-9796-4e42af6c430b)
 
 ## Windows Page
-![Windows](https://github.com/0xVirtu4l/Optisuit/assets/76711572/a6b22a7c-710e-41cb-855c-6ebae14bcbcd)
+![Windows](https://github.com/user-attachments/assets/981f2c84-a1e3-4f4e-a5cb-456be02a0a3c)
+
+## CPU Main Page
+![CPU Main](https://github.com/user-attachments/assets/4fb13d5f-d23c-45f3-8089-84eacdc03b50)
+
+## Intel Page
+![Intel Page](https://github.com/user-attachments/assets/2e93f8af-bacc-4d1d-b678-31781af4c958)
 
 ## GPU Main Page
-![GPU Main](https://github.com/0xVirtu4l/Optisuit/assets/76711572/10785ed9-0dd1-4fa7-998e-bb70ad1e5ba0)
+![GPU Main](https://github.com/user-attachments/assets/324c88ea-6285-4db8-af7d-75d112b65961)
 
 ## Nvidia Page
-![Nvidia Page](https://github.com/0xVirtu4l/Optisuit/assets/76711572/4bc2a0df-3d74-4d38-a625-5290b29517f0)
+![Nvidia Page](https://github.com/user-attachments/assets/a751433c-1ae6-455e-aeb7-0244de412b1b)
+
+## Memory Page
+![Memory Page](https://github.com/user-attachments/assets/a8fa77f2-2f1b-4dd2-834e-5279650d3b1f)
+
+## KBM (Keyboard and Mouse) Page
+![KBM Page](https://github.com/user-attachments/assets/700a5ae9-5284-4c1f-8c7f-7d723de9ef0c)
 
 ## Network Page
-![Netowrk Page](https://github.com/0xVirtu4l/Optisuit/assets/76711572/222fa2ea-683c-4184-a9a7-af1322b9f7bd)
+![Netowrk Page](https://github.com/user-attachments/assets/39598264-8190-4c13-a79d-898289df4baa)
+
+## Power Page
+![Power Page](https://github.com/user-attachments/assets/a0da9ba7-539a-4f82-a905-1e2207f0af00)
 
 ## Clean Page
-![Clean Page](https://github.com/0xVirtu4l/Optisuit/assets/76711572/5fdb5e5c-ee02-4d70-a545-3e6c3279dd58)
+![Clean Page](https://github.com/user-attachments/assets/dab00619-2b32-43d6-a194-32b390af7eea)
 
 ## Advanced Page
-![Advanced](https://github.com/0xVirtu4l/Optisuit/assets/76711572/93b4671b-e7b3-4dfa-9db5-c10c6732c865)
+![Advanced Page](https://github.com/user-attachments/assets/fdf08428-a82f-44b6-8e75-e69d9b5947cc)
 
-## Edit Hosts Page
-![Edit Hosts](https://github.com/0xVirtu4l/Optisuit/assets/76711572/9d8929a8-7363-40ec-aa45-6e94fb9aed44)
-
-## My Hardware Page
-![Hardware](https://github.com/0xVirtu4l/Optisuit/assets/76711572/32126354-8b26-4872-8a74-8e05afa6727d)
+## Games Page
+![Games Page](https://github.com/user-attachments/assets/58d40861-9fe7-4fdf-bba2-357ecaa54cf4)
 
