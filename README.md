@@ -24,8 +24,6 @@ OptiSuit will officially launch on August 1, 2024. Elevate your PC experience to
 - **CPU:** Optimize CPU performance and settings for increased efficiency.
 - **Memory:** Improve memory usage and manage memory settings.
 - **Power:** Customize power settings to enhance system performance.
-- **GameBooster:** Apply specific tweaks to boost gaming performance.
-- **Auto DNS Picker:** Automatically select the DNS server with the lowest response time (available in the Network tab).
 
 ## 🧩 Compatibility
 
